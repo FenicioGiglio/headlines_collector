@@ -53,4 +53,4 @@ Para executar este script, você precisará ter o **Python 3** e o **Google Chro
 Após configurar corretamente o caminho do perfil, abra um terminal ou prompt de comando, navegue até a pasta onde o script está salvo e execute o seguinte comando:
 
 ```bash
-python nome_do_seu_script.py
+python news_collector.py
